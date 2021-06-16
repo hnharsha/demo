@@ -4,4 +4,4 @@ This is a simple file
 
 ## Heading 2
 
-This is bound to cause trouble!
+This is bound to cause serious trouble!
